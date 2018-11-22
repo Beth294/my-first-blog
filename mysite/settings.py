@@ -25,7 +25,7 @@ SECRET_KEY = 'wl(3a3!h)faa4f8e0pt!6@w^gplnh4t6uf6hnk%&$1w7a3fy67'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<luciaep.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'luciaep.pythonanywhere.com']
 
 
 # Application definition
